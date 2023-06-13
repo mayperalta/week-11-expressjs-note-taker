@@ -1,6 +1,6 @@
-# week-11-expressjs-note-taker
+# Week 11 Express.js - Note Taker  
 
-This application called Note Taker intended for writing and saving notes.  The task is to build the back-end code, connect it with the already created front-end, and then deploy the entire application to Heroku. 
+This application called Note Taker is intended for writing and saving notes.  The task is to build the back-end code, connect it with the already created front-end, and then deploy the entire application to Heroku. 
 
 ## User Story
 
@@ -24,7 +24,7 @@ On the Visual Studio terminal do the following:
 * npm init
 * npm i express
 * create `.gitignore` file on root folder, then add `nodes_modules`
-- On `/public/package.json` under `scripts:` add ` "start": "node server.js"` 
+* On `/public/package.json` under `scripts:` add ` "start": "node server.js"` 
 
 # How to Use 
 

@@ -39,6 +39,7 @@ const saveNote = (note) =>
     headers: {
       'Content-Type': 'application/json',
     },
+    //body is values from inputs ie text and title
     body: JSON.stringify(note),
   });
 

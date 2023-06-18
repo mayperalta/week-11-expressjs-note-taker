@@ -34,9 +34,9 @@ On the Visual Studio terminal do the following:
 # How to Use 
 
 * View the deployed website on Heroku at https://mdp-note-taker-60148d70d745.herokuapp.com/.
-* Enter the note title and text on right column that says Note Title, and Note Text
+* Enter the note title and text on the right column that says Note Title, and Note Text
 * Click the disc icon on top-right
-* View note details by clicking on each note located at left column
+* View note details by clicking on each note located at the left column
 
 
 ## Mock-Up

@@ -39,6 +39,6 @@ The video below demonstrates how the application works.
 
 ![Watch video](./public/assets/image/note-taker.gif)
 
-Here's the video link: (https://drive.google.com/file/d/1q6s4ogW_0Kozbe7n_CvYAa16DL05p7Ib/view)
+Here's the video link: https://drive.google.com/file/d/1q6s4ogW_0Kozbe7n_CvYAa16DL05p7Ib/view
 
 # Repository

@@ -45,3 +45,4 @@ Here's the video link: https://drive.google.com/file/d/1q6s4ogW_0Kozbe7n_CvYAa16
 
 Heroku link - https://mdp-note-taker-60148d70d745.herokuapp.com/
 
+GitHub repo - https://github.com/mayperalta/week-11-expressjs-note-taker

@@ -4,7 +4,7 @@ const fs = require ('fs');
 const uuid = require('../helper/uuid');
 
 let data = require('../db/db.json');
-let dbPath =  './db/db.json';
+
 
 //API or CONTROLLER routes interact with fetch()
 //base url on entry into api.js is localhost:3001/api/ and any new route created adds to this endpoint
@@ -31,7 +31,7 @@ router.post('/notes', (req, res) => {
 
     // update db.json
     fs.writeFile(
-        dbPath,
+        './db/db.json',
         dataString,
           (writeErr) =>
             writeErr
@@ -62,7 +62,7 @@ router.post('/notes', (req, res) => {
 router.delete('/notes/:id', (req, res) => {
     const id = req.params;
 
-    fs.readFile( dbPath, 'utf8', (err, data) => {
+    fs.readFile('./db/db.json', 'utf8', (err, data) => {
         if (err) {
             console.error(err);
           } else {

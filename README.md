@@ -14,8 +14,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 * HTML
 * JS
-* Express JS
-* Heroku
+* Express 4.18.2
+* Heroku 8.1.8
+* uuid 9.0.0
 
 # How to Install
 
@@ -23,10 +24,15 @@ On the Visual Studio terminal do the following:
 
 * npm init
 * npm i express
+* npm i uuid
 * create `.gitignore` file on root folder, then add `nodes_modules`
 * On `/public/package.json` under `scripts:` add ` "start": "node server.js"` 
 
 # How to Use 
+
+The [video] (https://drive.google.com/file/d/1q6s4ogW_0Kozbe7n_CvYAa16DL05p7Ib/view) below demonstrates how the application works. 
+
+![Watch video](./public/assets/image/note-taker.gif)
 
 
 
